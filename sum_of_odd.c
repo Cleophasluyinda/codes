@@ -9,6 +9,6 @@ int main()
         sum = sum + i;
     }
 
-    printf("The sum of the odd numbers is: \n");
+    printf("The sum of the odd numbers is:%d\n",sum);
     return 0;
 }
